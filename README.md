@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm George Odhiambo 👋</h1>
+<h1 align="center">Hi there, I'm Ochieng George 👋</h1>
 
 <p align="center">
   💻 Full-Stack Developer | DevOps Enthusiast | Cloud & Blockchain Integrator  
