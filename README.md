@@ -22,13 +22,21 @@
 ---
 
 ### 🛠️ What I Do
+🧠 Backend: GoLang, Node.js, Laravel, Express
 
-- 🧠 Backend: GoLang, Node.js, Laravel, Express
-- 🎨 Frontend: React.js, Next.js, Bootstrap, Tailwind
-- 📦 DevOps: Docker, AWS ECR, GitLab CI/CD, Portainer
-- 🔗 APIs: RESTful APIs, Webhooks, Blockchain integrations
-- 📊 Databases: MySQL, PostgreSQL, MongoDB
-- 🔧 Tools: Git, GitHub, VS Code, SonarQube, Postman
+🎨 Frontend: React.js, Next.js, Bootstrap, Tailwind
+
+📦 DevOps & Deployment: Docker, AWS ECR, GitLab CI/CD, Portainer
+
+🔗 APIs & Integrations: RESTful APIs, Webhooks, Blockchain integrations
+
+🗄️ Databases: MySQL, PostgreSQL, MongoDB, phpMyAdmin, MySQL Workbench
+
+🛠️ Tools & Utilities: Git, GitHub, VS Code, SonarQube, Postman, WinSCP, PuTTY, cURL
+
+🧪 Testing & Debugging: Postman, Insomnia, browser dev tools, PHPUnit, Jest
+
+🔐 Security & Access: SSH, Key-based auth, VPNs, MFA setups
 
 ---
 
