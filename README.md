@@ -17,6 +17,7 @@
 |---|---|---|
 | **Q-SYS CX Platform** — 31+ African financial institutions | Laravel · React · MySQL · AWS · GitLab CI/CD | 🟢 Production |
 | **VQMS** — Virtual Queue Management System | Django · PostgreSQL · React · AWS RDS | 🟡 Staging |
+| **Q-SYS QMS** — Queue Management System (token display, counter mgmt, reporting) | Laravel · React · MySQL · Apache | 🟢 Production |
 | **NEAT Deals™** — Commercial licensing platform | FastAPI · React · Netlify · EC2 | 🟡 Deploying |
 | **CJM System** — Customer Journey Mapping + Branch Dashboard | FastAPI · React · Elastic Beanstalk · S3/CloudFront | 🟢 Production |
 | **Social Inbox** — Multi-platform social review aggregation | Node.js · Facebook/Twitter/Instagram APIs | 🟢 Live (GTBank) |
@@ -72,7 +73,13 @@ Blockchain / Fintech      ████████████░░░░░░
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=georgeodhiambo12&theme=dracula&margin-w=12&no-bg=true&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=georgeodhiambo12&theme=dracula&margin-w=10&no-bg=true&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=georgeodhiambo12&theme=radical&hide_border=true" />
 </p>
 
 ---
